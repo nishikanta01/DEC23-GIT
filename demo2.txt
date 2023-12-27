@@ -1,3 +1,8 @@
+
 Hello All
 
 Dwaraka - added content in demo2.txt
+Hello all!!!
+
+Aayushi - Edited second file and pushed to master
+>>>>>>> 157d3b0f4e6d284cdeff25c1f977a940f560609f
